@@ -1,10 +1,11 @@
-﻿using System;
+﻿/*using System;
 namespace oop_class
 {
     class Program
     {
         static void Main(string[] args)
         {
+          
             //sınıf nedir  ? neden sınıf yapısı kullanılır?
             // sınıf ile nesne arasındaki ilişki nedir?
             #region    sınıf nasıl ve nerede oluşturulur? 
@@ -54,6 +55,13 @@ namespace oop_class
             return a * b;
         }
     }
+
+
+
+
+
+
+
     class MyClass
     {
         class MyClass3
@@ -62,3 +70,4 @@ namespace oop_class
         }
     }
 }
+*/

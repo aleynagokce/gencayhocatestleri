@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassNedir", "ClassNedir", "{F79B877C-9593-4C95-ADDB-3B42A1A9F6FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassNedirConsole", "ClassNedirConsole\ClassNedirConsole.csproj", "{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassNedirConsole", "ClassNedirConsole\ClassNedirConsole.csproj", "{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Property", "Property", "{B382FBAF-DD1B-45F0-81EE-CE4AEF8C4BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyNedirConsole", "PropertyNedirConsole\PropertyNedirConsole.csproj", "{4A5F42B6-75B2-4D92-BBC9-658A9EA52857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A5F42B6-75B2-4D92-BBC9-658A9EA52857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A5F42B6-75B2-4D92-BBC9-658A9EA52857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A5F42B6-75B2-4D92-BBC9-658A9EA52857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A5F42B6-75B2-4D92-BBC9-658A9EA52857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3D63119D-FE14-48C7-A3A5-1EFCC7BB83DC} = {F79B877C-9593-4C95-ADDB-3B42A1A9F6FB}
+		{4A5F42B6-75B2-4D92-BBC9-658A9EA52857} = {B382FBAF-DD1B-45F0-81EE-CE4AEF8C4BFD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4DD34236-FCDE-4214-98DB-E9022276EABF}
